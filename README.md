@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Anton 👋  
+PHP / Laravel Developer
 
-<!--
-**AntonSot-Github/AntonSot-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PHP / Laravel developer with over 2.5 years of self-directed learning and hands-on experience.
 
-Here are some ideas to get you started:
+I build web applications such as CRM systems and forum platforms, focusing on backend logic, databases, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for developer position in Poland.
+
+---
+
+## 🛠 Tech Stack
+
+- PHP (OOP)
+- Laravel
+- MySQL / SQL
+- JavaScript (basic)
+- HTML / CSS
+- Tailwind / Bootstrap
+- Git
+
+  ---
+
+  ## 🎯 Goal
+
+Looking for a Junior PHP / Laravel / Fullstack Developer position  
+Open to relocation and on-site / hybrid work
