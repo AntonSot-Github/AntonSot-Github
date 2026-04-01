@@ -1,10 +1,8 @@
 ## Hi, I'm Anton 👋  
-PHP / Laravel Developer
+PHP / Laravel / Fullstack Developer
 
 I am a PHP / Laravel developer with over 2.5 years of self-directed learning and hands-on experience.
-
 I build web applications such as CRM systems and forum platforms, focusing on backend logic, databases, and clean architecture.
-
 Currently looking for developer position in Poland.
 
 ---
@@ -19,9 +17,9 @@ Currently looking for developer position in Poland.
 - Tailwind / Bootstrap
 - Git
 
-  ---
+---
 
-  ## 🎯 Goal
+## 🎯 Goal
 
-Looking for a Junior PHP / Laravel / Fullstack Developer position  
+Looking for a PHP / Laravel / Fullstack Developer position  
 Open to relocation and on-site / hybrid work
