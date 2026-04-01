@@ -1,5 +1,6 @@
 ## Hi, I'm Anton 👋  
-PHP / Laravel / Fullstack Developer
+PHP / Laravel (Backend / Fullstack)
+Based in Poland
 ---
 I am a PHP / Laravel developer with over 2.5 years of self-directed learning and hands-on experience.
 
@@ -30,6 +31,7 @@ I value clear thinking, structured problem-solving, and writing code that is not
 
 ### 🔹 ConvoForum 👉 [Link](https://github.com/AntonSot-Github/ConvoForum)
 Forum application with authentication, roles, and post management.  
+Focus on user roles, data relationships and clean backend logic.  
 Used Laravel, Eloquent ORM, Tailwind, Breeze.  
 
 ### 🔹 LaraFlow CRM 👉 [Link](https://github.com/AntonSot-Github/LaraFlow-CRM)
@@ -39,6 +41,10 @@ Used Laravel, Eloquent ORM, polymorphic relationships, bootstrap.
 ### 🔹 Lesson-Timer 👉 [Link](https://github.com/AntonSot-Github/Lesson-Timer)
 Simple Study time tracker for recording training time with recording results in a database.  
 Used Native PHP, Vanilla JS, Bootstrap.
+
+### 🔹 Native Forum 👉 [Link](https://github.com/AntonSot-Github/NativeForum_Dec.2024)  
+Forum built without frameworks to understand backend fundamentals.  
+Used PHP, SQL, JavaScript.
 
 ---
 
