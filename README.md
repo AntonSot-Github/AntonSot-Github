@@ -28,20 +28,17 @@ I value clear thinking, structured problem-solving, and writing code that is not
 
 ## 🚀 Projects
 
-### 🔹 ConvoForum
-👉 [ConvoForum](https://github.com/AntonSot-Github/ConvoForum)
+### 🔹 ConvoForum 👉 [Link](https://github.com/AntonSot-Github/ConvoForum)
 Forum application with authentication, roles, and post management.  
-Laravel, Eloquent ORM, Tailwind, Breeze.  
+Used Laravel, Eloquent ORM, Tailwind, Breeze.  
 
-### 🔹 LaraFlow CRM
-👉 [LaraFlow_CRM](https://github.com/AntonSot-Github/LaraFlow-CRM)
+### 🔹 LaraFlow CRM 👉 [Link](https://github.com/AntonSot-Github/LaraFlow-CRM)
 CRM system with clients, deals and task management.  
-Laravel, Eloquent ORM, polymorphic relationships, bootstrap.
+Used Laravel, Eloquent ORM, polymorphic relationships, bootstrap.
 
-### 🔹 Lesson-Timer 
-👉 [Lesson-Timer](https://github.com/AntonSot-Github/Lesson-Timer)
+### 🔹 Lesson-Timer 👉 [Link](https://github.com/AntonSot-Github/Lesson-Timer)
 Simple Study time tracker for recording training time with recording results in a database.  
-Native PHP, Vanilla JS, Bootstrap.
+Used Native PHP, Vanilla JS, Bootstrap.
 
 ---
 
