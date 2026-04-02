@@ -20,7 +20,7 @@ I value clear thinking, structured problem-solving, and writing code that is not
 - Laravel
 - MySQL / SQL
 - JavaScript (basic)
-- HTML / CSS
+- HTML / CSS / SASS
 - Tailwind / Bootstrap
 - Vue.js (currently learning)
 - Git
