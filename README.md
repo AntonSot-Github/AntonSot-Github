@@ -1,5 +1,5 @@
 ## Hi, I'm Anton 👋  
-PHP / Laravel (Backend / Fullstack)
+PHP / Laravel (Backend / Fullstack) developer  
 Based in Poland
 ---
 I am a PHP / Laravel developer with over 2.5 years of self-directed learning and hands-on experience.
