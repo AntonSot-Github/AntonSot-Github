@@ -2,7 +2,7 @@
 PHP / Laravel (Backend / Fullstack) developer  
 Based in Poland
 ---
-I am a PHP / Laravel developer with over 2.5 years of self-directed learning and hands-on experience.
+I am a PHP / Laravel developer with over 2.5 years of hands-on experience.
 
 I build web applications such as CRM systems and forum platforms, focusing on backend logic, relational databases, and clean architecture.
 
