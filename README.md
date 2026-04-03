@@ -23,6 +23,7 @@ I value clear thinking, structured problem-solving, and writing code that is not
 - HTML / CSS / SASS
 - Tailwind / Bootstrap
 - Vue.js (currently learning)
+- Docker
 - Git
 
 ---
