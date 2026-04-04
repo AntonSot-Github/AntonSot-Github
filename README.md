@@ -1,7 +1,7 @@
 ## Hi, I'm Anton 👋  
 PHP / Laravel (Backend / Fullstack) developer  
 ---
-I am a PHP / Laravel developer with over 2.5 years of hands-on experience.
+I am PHP / Laravel developer with over 2.5 years of hands-on experience.
 
 I build web applications such as CRM systems and forum platforms, focusing on backend logic, relational databases, and clean architecture.
 
