@@ -17,7 +17,7 @@ I value clear thinking, structured problem-solving, and writing code that is not
 
 - PHP (OOP)
 - Laravel
-- SQL / MySQL
+- SQL / MySQL / PostgreSQL
 - JavaScript (basic)
 - HTML / CSS + SASS
 - Tailwind / Bootstrap
